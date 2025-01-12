@@ -1,0 +1,6 @@
+G:/OSAMAA/EmbeddedSystem/19-Embedded_Linux/01-Moatasem_Elsayed/Course_2024/02-CPP/CMake/ws/build/CMakeFiles/hellobinary.dir
+G:/OSAMAA/EmbeddedSystem/19-Embedded_Linux/01-Moatasem_Elsayed/Course_2024/02-CPP/CMake/ws/build/CMakeFiles/edit_cache.dir
+G:/OSAMAA/EmbeddedSystem/19-Embedded_Linux/01-Moatasem_Elsayed/Course_2024/02-CPP/CMake/ws/build/CMakeFiles/rebuild_cache.dir
+G:/OSAMAA/EmbeddedSystem/19-Embedded_Linux/01-Moatasem_Elsayed/Course_2024/02-CPP/CMake/ws/build/lib/CMakeFiles/wifi_lib.dir
+G:/OSAMAA/EmbeddedSystem/19-Embedded_Linux/01-Moatasem_Elsayed/Course_2024/02-CPP/CMake/ws/build/lib/CMakeFiles/edit_cache.dir
+G:/OSAMAA/EmbeddedSystem/19-Embedded_Linux/01-Moatasem_Elsayed/Course_2024/02-CPP/CMake/ws/build/lib/CMakeFiles/rebuild_cache.dir

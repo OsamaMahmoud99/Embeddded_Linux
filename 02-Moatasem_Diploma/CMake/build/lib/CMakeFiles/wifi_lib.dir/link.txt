@@ -1,0 +1,2 @@
+G:\Programs2\MinGW\bin\ar.exe qc libwifi_lib.a CMakeFiles/wifi_lib.dir/wifi.cpp.obj
+G:\Programs2\MinGW\bin\ranlib.exe libwifi_lib.a
