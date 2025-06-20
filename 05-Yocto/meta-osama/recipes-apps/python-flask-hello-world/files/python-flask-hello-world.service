@@ -1,0 +1,13 @@
+[Unit]
+Description=python Flask Hello world
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=10s
+StandardOutput=syslog
+StandardError=syslog
+ExecStart=/usr/bin/python-flask-hello-world.py
+
+[Install]
+WantedBy=multi-user.target
