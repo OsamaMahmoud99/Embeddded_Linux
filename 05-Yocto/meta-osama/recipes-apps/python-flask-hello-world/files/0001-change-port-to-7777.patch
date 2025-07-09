@@ -1,0 +1,22 @@
+From 2d4597132e0a828face97e67ee033f0f03d4b2a9 Mon Sep 17 00:00:00 2001
+From: Osama Mahmoud <osama.mahmoud@vxlabs.de>
+Date: Sat, 14 Jun 2025 18:06:16 +0000
+Subject: [PATCH] change port to 7777
+
+---
+ app.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/app.py b/app.py
+index d3c9203..1efd75a 100644
+--- a/app.py
++++ b/app.py
+@@ -11,4 +11,4 @@ def hello_world():
+ 
+ 
+ if __name__ == '__main__':
+-    app.run(host='0.0.0.0')
++    app.run(host='0.0.0.0', port=7777)
+-- 
+2.43.0
+
